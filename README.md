@@ -9,7 +9,5 @@ The notebook can be run in a regular python environment.
 
 # RESULTS
 
-## Results
-
 You can view the detailed results in the [result.md](result.md) file.
 
