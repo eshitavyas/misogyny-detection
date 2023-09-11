@@ -7,9 +7,7 @@ Upload the Sexism annotated data csv file onto the environment: https://www.kagg
 The notebook can be run in a regular python environment.
 
 
-# Project README
-
-* [Results](#results)
+# RESULTS
 
 ## Results
 
